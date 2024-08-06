@@ -1,5 +1,4 @@
 import React, {Component} from "react";
-
 class Example extends React.Component {
     constructor(props) {
         super(props);
